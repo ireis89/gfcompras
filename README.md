@@ -1,2 +1,0 @@
-# gfcompras
-Gerenciador de Compras 
